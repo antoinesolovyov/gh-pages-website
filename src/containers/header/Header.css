@@ -1,0 +1,27 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header a {
+  box-shadow: none;
+}
+
+header button {
+  width: 4rem;
+  outline: none;
+  border: 2px solid var(--button-color);
+  border-radius: 4px;
+  font-size: 1rem;
+  font-family: Helvetica;
+  margin-top: 2rem;
+  padding: 0.5rem;
+  background: var(--background-color);
+  color: var(--color);
+}
+
+header button:hover {
+  cursor: pointer;
+  background: var(--main-color);
+}

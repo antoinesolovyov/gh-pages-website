@@ -1,0 +1,7 @@
+h1 {
+  font-family: "Futura";
+  color: var(--main-color);
+  font-size: 2rem;
+  padding: 0px;
+  margin: 2rem 0 0 0;
+}

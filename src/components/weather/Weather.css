@@ -1,0 +1,15 @@
+span {
+  font-family: Futura;
+  cursor: pointer;
+  color: var(--main-color);
+  box-shadow: 0 2px 0 0 var(--box-shadow-color);
+}
+
+span:hover {
+  box-shadow: none;
+}
+
+.weather {
+  margin: 0 0;
+  font-family: Futura;
+}

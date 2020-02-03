@@ -1,0 +1,21 @@
+footer {
+  margin-top: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+footer div {
+  float: right;
+}
+
+a {
+  font-family: Futura;
+  color: var(--main-color);
+  text-decoration: none;
+  box-shadow: 0 2px 0 0 var(--box-shadow-color);
+}
+
+a:hover {
+  box-shadow: none;
+}
