@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gh-pages-website/static/css/main.2cd075a3.chunk.css",
+    "main.css": "/gh-pages-website/static/css/main.9f4be7c0.chunk.css",
     "main.js": "/gh-pages-website/static/js/main.2b5acfbe.chunk.js",
     "main.js.map": "/gh-pages-website/static/js/main.2b5acfbe.chunk.js.map",
     "runtime-main.js": "/gh-pages-website/static/js/runtime-main.ab8180fc.js",
@@ -8,15 +8,15 @@
     "static/js/2.f8f074aa.chunk.js": "/gh-pages-website/static/js/2.f8f074aa.chunk.js",
     "static/js/2.f8f074aa.chunk.js.map": "/gh-pages-website/static/js/2.f8f074aa.chunk.js.map",
     "index.html": "/gh-pages-website/index.html",
-    "precache-manifest.d644cbcf6190ee24c81390a59589919a.js": "/gh-pages-website/precache-manifest.d644cbcf6190ee24c81390a59589919a.js",
+    "precache-manifest.d049ffe186940163efde11efa971de7b.js": "/gh-pages-website/precache-manifest.d049ffe186940163efde11efa971de7b.js",
     "service-worker.js": "/gh-pages-website/service-worker.js",
-    "static/css/main.2cd075a3.chunk.css.map": "/gh-pages-website/static/css/main.2cd075a3.chunk.css.map",
+    "static/css/main.9f4be7c0.chunk.css.map": "/gh-pages-website/static/css/main.9f4be7c0.chunk.css.map",
     "static/js/2.f8f074aa.chunk.js.LICENSE.txt": "/gh-pages-website/static/js/2.f8f074aa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ab8180fc.js",
     "static/js/2.f8f074aa.chunk.js",
-    "static/css/main.2cd075a3.chunk.css",
+    "static/css/main.9f4be7c0.chunk.css",
     "static/js/main.2b5acfbe.chunk.js"
   ]
 }
