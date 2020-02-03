@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1809" height="615" viewBox="0 0 1809 615">
+  <g id="Pooling" transform="translate(-3364 -1290)">
+    <g id="Group_147" data-name="Group 147" transform="translate(-654 -16)">
+      <line id="Line_155" data-name="Line 155" x2="200" transform="translate(4954 1616)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="10"/>
+      <line id="Line_156" data-name="Line 156" x2="50" y2="25" transform="translate(5104 1591)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="10"/>
+      <line id="Line_157" data-name="Line 157" y1="25" x2="50" transform="translate(5104 1616)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="10"/>
+    </g>
+    <text id="input" transform="translate(3457 1621)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-92.708" y="0">input</tspan></text>
+    <text id="output" transform="translate(5061 1621)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-111.369" y="0">output</tspan></text>
+    <text id="max" transform="translate(4355 1566)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-55.385" y="0">max</tspan></text>
+    <rect id="Rectangle_254" data-name="Rectangle 254" width="100" height="100" transform="translate(4700 1450)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+    <rect id="Rectangle_255" data-name="Rectangle 255" width="100" height="100" transform="translate(4600 1550)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+    <rect id="Rectangle_256" data-name="Rectangle 256" width="100" height="100" transform="translate(4700 1550)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+    <rect id="Rectangle_257" data-name="Rectangle 257" width="100" height="100" transform="translate(4800 1450)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+    <rect id="Rectangle_258" data-name="Rectangle 258" width="100" height="100" transform="translate(4800 1550)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+    <rect id="Rectangle_259" data-name="Rectangle 259" width="100" height="100" transform="translate(4600 1550)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+    <rect id="Rectangle_260" data-name="Rectangle 260" width="100" height="100" transform="translate(4700 1550)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+    <rect id="Rectangle_261" data-name="Rectangle 261" width="100" height="100" transform="translate(4600 1650)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+    <rect id="Rectangle_262" data-name="Rectangle 262" width="100" height="100" transform="translate(4700 1650)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+    <rect id="Rectangle_253" data-name="Rectangle 253" width="100" height="100" transform="translate(4600 1450)" fill="#aa5580" stroke="#000" stroke-linejoin="round" stroke-width="20"/>
+    <text id="_8" data-name="8" transform="translate(4750 1621)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">8</tspan></text>
+    <text id="_6" data-name="6" transform="translate(4650 1521)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">6</tspan></text>
+    <text id="_6-2" data-name="6" transform="translate(4750 1521)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">6</tspan></text>
+    <text id="_6-3" data-name="6" transform="translate(4650 1621)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">6</tspan></text>
+    <text id="_4" data-name="4" transform="translate(4850 1521)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">4</tspan></text>
+    <text id="_2" data-name="2" transform="translate(4850 1621)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">2</tspan></text>
+    <text id="_6-4" data-name="6" transform="translate(4750 1721)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">6</tspan></text>
+    <text id="_2-2" data-name="2" transform="translate(4650 1721)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">2</tspan></text>
+    <rect id="Rectangle_263" data-name="Rectangle 263" width="100" height="100" transform="translate(4800 1550)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+    <rect id="Rectangle_264" data-name="Rectangle 264" width="100" height="100" transform="translate(4800 1650)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+    <text id="_8-2" data-name="8" transform="translate(4850 1621)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">8</tspan></text>
+    <text id="_6-5" data-name="6" transform="translate(4850 1721)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">6</tspan></text>
+    <g id="Group_154" data-name="Group 154" transform="translate(-1810 1000)">
+      <rect id="Rectangle_133" data-name="Rectangle 133" width="100" height="100" transform="translate(5410 400)" fill="#aa5580" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_134" data-name="Rectangle 134" width="100" height="100" transform="translate(5410 500)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_135" data-name="Rectangle 135" width="100" height="100" transform="translate(5410 600)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_136" data-name="Rectangle 136" width="100" height="100" transform="translate(5410 700)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_137" data-name="Rectangle 137" width="100" height="100" transform="translate(5510 300)" fill="#aa5580" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_138" data-name="Rectangle 138" width="100" height="100" transform="translate(5510 400)" fill="#aa5580" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_139" data-name="Rectangle 139" width="100" height="100" transform="translate(5510 500)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_140" data-name="Rectangle 140" width="100" height="100" transform="translate(5510 600)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_141" data-name="Rectangle 141" width="100" height="100" transform="translate(5510 700)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_142" data-name="Rectangle 142" width="100" height="100" transform="translate(5610 300)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_143" data-name="Rectangle 143" width="100" height="100" transform="translate(5610 400)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_144" data-name="Rectangle 144" width="100" height="100" transform="translate(5610 500)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_145" data-name="Rectangle 145" width="100" height="100" transform="translate(5610 600)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_146" data-name="Rectangle 146" width="100" height="100" transform="translate(5610 700)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_147" data-name="Rectangle 147" width="100" height="100" transform="translate(5710 300)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_148" data-name="Rectangle 148" width="100" height="100" transform="translate(5710 400)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_149" data-name="Rectangle 149" width="100" height="100" transform="translate(5710 500)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_150" data-name="Rectangle 150" width="100" height="100" transform="translate(5710 600)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_151" data-name="Rectangle 151" width="100" height="100" transform="translate(5710 700)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_152" data-name="Rectangle 152" width="100" height="100" transform="translate(5810 300)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_153" data-name="Rectangle 153" width="100" height="100" transform="translate(5810 400)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_154" data-name="Rectangle 154" width="100" height="100" transform="translate(5810 500)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_155" data-name="Rectangle 155" width="100" height="100" transform="translate(5810 600)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_156" data-name="Rectangle 156" width="100" height="100" transform="translate(5810 700)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_132" data-name="Rectangle 132" width="100" height="100" transform="translate(5410 300)" fill="#aa5580" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <text id="_4-2" data-name="4" transform="translate(5460 371)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">4</tspan></text>
+      <text id="_4-3" data-name="4" transform="translate(5560 371)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">4</tspan></text>
+      <text id="_6-6" data-name="6" transform="translate(5560 471)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">6</tspan></text>
+      <text id="_4-4" data-name="4" transform="translate(5460 471)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">4</tspan></text>
+      <text id="_6-7" data-name="6" transform="translate(5660 471)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">6</tspan></text>
+      <text id="_2-3" data-name="2" transform="translate(5660 371)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">2</tspan></text>
+      <text id="_2-4" data-name="2" transform="translate(5760 371)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">2</tspan></text>
+      <text id="_0" data-name="0" transform="translate(5860 371)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">0</tspan></text>
+      <text id="_4-5" data-name="4" transform="translate(5860 471)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">4</tspan></text>
+      <text id="_4-6" data-name="4" transform="translate(5860 571)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">4</tspan></text>
+      <text id="_8-3" data-name="8" transform="translate(5860 671)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">8</tspan></text>
+      <text id="_6-8" data-name="6" transform="translate(5860 771)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">6</tspan></text>
+      <text id="_4-7" data-name="4" transform="translate(5760 471)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">4</tspan></text>
+      <text id="_8-4" data-name="8" transform="translate(5760 571)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">8</tspan></text>
+      <text id="_8-5" data-name="8" transform="translate(5760 671)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">8</tspan></text>
+      <text id="_6-9" data-name="6" transform="translate(5760 771)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">6</tspan></text>
+      <text id="_4-8" data-name="4" transform="translate(5660 771)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">4</tspan></text>
+      <text id="_2-5" data-name="2" transform="translate(5560 771)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">2</tspan></text>
+      <text id="_2-6" data-name="2" transform="translate(5460 771)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">2</tspan></text>
+      <text id="_2-7" data-name="2" transform="translate(5460 671)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">2</tspan></text>
+      <text id="_6-10" data-name="6" transform="translate(5560 671)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">6</tspan></text>
+      <text id="_8-6" data-name="8" transform="translate(5660 671)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">8</tspan></text>
+      <text id="_2-8" data-name="2" transform="translate(5460 571)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">2</tspan></text>
+      <text id="_6-11" data-name="6" transform="translate(5560 571)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">6</tspan></text>
+      <text id="_8-7" data-name="8" transform="translate(5660 571)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">8</tspan></text>
+      <rect id="Rectangle_305" data-name="Rectangle 305" width="100" height="100" transform="translate(5410 800)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_307" data-name="Rectangle 307" width="100" height="100" transform="translate(5510 800)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_309" data-name="Rectangle 309" width="100" height="100" transform="translate(5610 800)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_311" data-name="Rectangle 311" width="100" height="100" transform="translate(5710 800)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_313" data-name="Rectangle 313" width="100" height="100" transform="translate(5810 800)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <text id="_6-12" data-name="6" transform="translate(5860 871)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">6</tspan></text>
+      <text id="_6-13" data-name="6" transform="translate(5760 871)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">6</tspan></text>
+      <text id="_0-2" data-name="0" transform="translate(5460 871)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">0</tspan></text>
+      <text id="_2-9" data-name="2" transform="translate(5560 871)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">2</tspan></text>
+      <text id="_4-9" data-name="4" transform="translate(5660 871)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">4</tspan></text>
+      <rect id="Rectangle_315" data-name="Rectangle 315" width="100" height="100" transform="translate(5910 300)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_316" data-name="Rectangle 316" width="100" height="100" transform="translate(5910 400)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_317" data-name="Rectangle 317" width="100" height="100" transform="translate(5910 500)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_318" data-name="Rectangle 318" width="100" height="100" transform="translate(5910 600)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <rect id="Rectangle_319" data-name="Rectangle 319" width="100" height="100" transform="translate(5910 700)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <text id="_0-3" data-name="0" transform="translate(5960 371)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">0</tspan></text>
+      <text id="_2-10" data-name="2" transform="translate(5960 471)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">2</tspan></text>
+      <text id="_4-10" data-name="4" transform="translate(5960 571)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">4</tspan></text>
+      <text id="_4-11" data-name="4" transform="translate(5960 671)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">4</tspan></text>
+      <text id="_6-14" data-name="6" transform="translate(5960 771)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">6</tspan></text>
+      <rect id="Rectangle_325" data-name="Rectangle 325" width="100" height="100" transform="translate(5910 800)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+      <text id="_4-12" data-name="4" transform="translate(5960 871)" font-size="60" font-family="Menlo-Bold, Menlo" font-weight="700" letter-spacing="0.02em"><tspan x="-18.062" y="0">4</tspan></text>
+    </g>
+    <path id="Path_32" data-name="Path 32" d="M0,0H200V200H0Z" transform="translate(3600 1300)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="20"/>
+  </g>
+</svg>
