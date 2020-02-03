@@ -9,7 +9,7 @@ const ExchangeRates = () => {
   const [rates, setRates] = useState([]);
 
   useEffect(() => {
-    const url = `http://www.nbrb.by/api/exrates/rates?periodicity=0`;
+    const url = `https://www.nbrb.by/api/exrates/rates?periodicity=0`;
 
     fetch(url)
       .then(response => response.json())
