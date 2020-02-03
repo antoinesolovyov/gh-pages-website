@@ -13,13 +13,9 @@ const App = () => {
 
   return (
     <>
-      <Route path="/" exact>
-        <Header />
-      </Route>
+      <Header />
       <Main />
-      <Route path="/" exact>
-        <Footer />
-      </Route>
+      <Footer />
     </>
   );
 };
